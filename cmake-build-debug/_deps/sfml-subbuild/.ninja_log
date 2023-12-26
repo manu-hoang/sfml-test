@@ -1,0 +1,21 @@
+# ninja log v5
+0	43	7252592370016715	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	517b9a0e56cbcab6
+0	43	7252592370016715	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	517b9a0e56cbcab6
+44	26101	7252592630591265	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b2fa943744667428
+44	26101	7252592630591265	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	b2fa943744667428
+26101	27528	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	51af8dc0e5957ad0
+26101	27528	0	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	51af8dc0e5957ad0
+27528	27567	7252592645258925	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a826d793ed5b1b05
+27528	27567	7252592645258925	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	a826d793ed5b1b05
+27567	27610	7252592645688645	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	705322203c8df965
+27567	27610	7252592645688645	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	705322203c8df965
+27610	27653	7252592646104922	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	133a86af1b97c77f
+27610	27653	7252592646104922	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	133a86af1b97c77f
+27653	27698	7252592646564933	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c76b7732db02f186
+27653	27698	7252592646564933	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c76b7732db02f186
+27698	27745	7252592647024946	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ceb652b1524f5189
+27698	27745	7252592647024946	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ceb652b1524f5189
+27746	27808	7252592647650477	CMakeFiles/sfml-populate-complete	b486b22c914602bb
+27746	27808	7252592647650477	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b486b22c914602bb
+27746	27808	7252592647650477	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	b486b22c914602bb
+27746	27808	7252592647650477	C:/Users/manuh/OneDrive/Bureaublad/Advanced Programming/PACMAN Project/sfml-test/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b486b22c914602bb
