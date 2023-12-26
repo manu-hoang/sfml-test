@@ -7,8 +7,8 @@ jobs:
       - image: ubuntu:22.04
     steps:
       - checkout
-      - run: sudo apt update
-      - run: sudo apt install \ libxrandr-dev \ libxcursor-dev \ libudev-dev \ libfreetype-dev \ libopenal-dev \ libflac-dev \ libvorbis-dev \ libgl1-mesa-dev \ libegl1-mesa-dev
+      - run: apt update
+      - run: apt install \ libxrandr-dev \ libxcursor-dev \ libudev-dev \ libfreetype-dev \ libopenal-dev \ libflac-dev \ libvorbis-dev \ libgl1-mesa-dev \ libegl1-mesa-dev
       - run: DEBIAN_FRONTEND=noninteractive TZ=Europe/Brussels apt install -y gcc g++ libsfml-dev cmake git
       - run: mkdir -p build
       - run: cd build && cmake ..
